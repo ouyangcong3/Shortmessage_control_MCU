@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Documents and Settings\Administrator\桌面\51单片机短信控制继电器源程序-川\GSM_2.uvproj
+Project File Date:  04/08/2011
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling GSM3.C...
+linking...
+Program Size: data=204.5 xdata=0 code=1479
+creating hex file from "GSM_2"...
+"GSM_2" - 0 Error(s), 0 Warning(s).

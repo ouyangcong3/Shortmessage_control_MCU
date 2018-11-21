@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"GSM3.obj" 
+TO "GSM_2" 
+RAMSIZE(256) 
